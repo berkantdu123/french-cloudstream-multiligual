@@ -7,8 +7,8 @@ import org.jsoup.Jsoup
 
 // referer = https://vf-serie.org, USERAGENT ALSO REQUIRED
 class VfSerieProvider : MainAPI() {
-    override var mainUrl = "https://vf-serie.org"
-    override var name = "vf-serie.org"
+    override var mainUrl = "https://www.vfserie.win/"
+    override var name = "vfserie.win"
     override var lang = "fr"
 
     override val hasQuickSearch = false
