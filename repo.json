@@ -1,0 +1,8 @@
+{
+    "name": "Multiligual repository",
+    "description": "Forked Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/berkantdu123/cloudstream-multiligual/builds/plugins.json"
+    ]
+}
