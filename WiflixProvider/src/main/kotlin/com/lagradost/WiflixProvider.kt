@@ -12,7 +12,7 @@ import kotlin.collections.ArrayList
 class WiflixProvider : MainAPI() {
 
 
-    override var mainUrl = "https://wiflix.zone"
+    override var mainUrl = "https://ww32.wiflix.cx"
     override var name = "Wiflix"
     override val hasQuickSearch = false // recherche rapide (optionel, pas vraimet utile)
     override val hasMainPage = true // page d'accueil (optionel mais encoragé)
