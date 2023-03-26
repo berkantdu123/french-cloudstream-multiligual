@@ -1,4 +1,4 @@
-# Cloudstream Non-English Plugin Repository 
+# Cloudstream French-oriented Plugin Repository based on non-english repo
 
 All available repositories: https://recloudstream.github.io/repos/
 
